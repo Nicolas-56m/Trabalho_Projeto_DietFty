@@ -6,6 +6,30 @@ https://canva.link/quo1ai5hjs572y7
 
 # _PROJETO COMPLETO:_ DIETFTY
 
+## Descrição da empresa:
+O Dietfty é um aplicativo voltado para a saúde, alimentação e
+qualidade de vida, criado para ajudar pessoas que desejam melhorar
+seus hábitos alimentares e ter uma rotina mais saudável. Utilizando
+recursos de Inteligência Artificial, o aplicativo oferece orientações,
+sugestões e informações relacionadas à alimentação de forma
+prática e acessível.
+
+
+O principal objetivo do Dietfty é facilitar o acesso a informações sobre
+uma alimentação equilibrada, ajudando usuários que desejam
+emagrecer, melhorar sua saúde ou desenvolver hábitos mais
+saudáveis. O aplicativo contará com uma versão gratuita, com
+recursos básicos e interação com a Inteligência Artificial, e uma
+versão paga, com mais funcionalidades e possível acompanhamento
+de um nutricionista profissional.
+
+
+Dessa forma, o Dietfty busca unir tecnologia e saúde, oferecendo uma
+ferramenta moderna para auxiliar as pessoas em suas escolhas
+alimentares e na busca por uma melhor qualidade de vida.
+
+___
+
 ## _1° PARTE:_ Dúvidas, perguntas sobre o projeto:
 
 ## _2° PARTE:_ Respostas sobre as perguntas:
@@ -126,7 +150,39 @@ Apoiaram esta solução
 
 ___
 
-## _5° PARTE:_ Requisitos do Sistema
+## _5° PARTE:_ Resumo do problema
+
+Muitas pessoas possuem dificuldade para organizar sua alimentação e acompanhar seus objetivos de saúde de forma personalizada.
+
+___
+
+### Como o problema é tratado atualmente?
+Atualmente, algumas pessoas procuram informações na internet, utilizam aplicativos de alimentação ou buscam diretamente profissionais da área.
+
+___
+
+### Quem é afetado?
+Pessoas que possuem dificuldade para organizar sua alimentação e acompanhar seus objetivos de saúde.
+
+___
+
+### Quais prejuízos causa?
+A falta de organização e acompanhamento pode dificultar a criação de hábitos saudáveis e o acompanhamento dos objetivos do usuário.
+
+___
+
+##  _6° PARTE:_ Stakeholders
+
+### - Envolvidos no sistema:
+- Usuários do plano gratuito
+- Usuários do plano pago
+- Nutricionistas
+- Administradores do sistema
+- Equipe de desenvolvimento
+
+___
+
+## _6° PARTE:_ Requisitos do Sistema
 
 ### Requisitos Funcionais:
 
