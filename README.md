@@ -1,10 +1,15 @@
-# Trabalho - Projeto - DietFiy
+# Trabalho - Projeto - DietFty
  Slide feito no Canva + Trabalho Resumido/Completo sobre o projeto
 
 # - Slide feito no Canva:
 https://canva.link/quo1ai5hjs572y7
 
-# _PROJETO COMPLETO:_ DIETFTY
+# _PROJETO COMPLETO:_ DietFty
+
+## Objetivo do projeto:
+Simular um projeto real de software, passando pelo levantamento de requisitos, entrevista com o cliente, documentação e proposta de solução.
+
+___ 
 
 ## Descrição da empresa:
 O Dietfty é um aplicativo voltado para a saúde, alimentação e
@@ -14,7 +19,6 @@ recursos de Inteligência Artificial, o aplicativo oferece orientações,
 sugestões e informações relacionadas à alimentação de forma
 prática e acessível.
 
-
 O principal objetivo do Dietfty é facilitar o acesso a informações sobre
 uma alimentação equilibrada, ajudando usuários que desejam
 emagrecer, melhorar sua saúde ou desenvolver hábitos mais
@@ -23,16 +27,15 @@ recursos básicos e interação com a Inteligência Artificial, e uma
 versão paga, com mais funcionalidades e possível acompanhamento
 de um nutricionista profissional.
 
-
 Dessa forma, o Dietfty busca unir tecnologia e saúde, oferecendo uma
 ferramenta moderna para auxiliar as pessoas em suas escolhas
 alimentares e na busca por uma melhor qualidade de vida.
 
 ___
 
-## _1° PARTE:_ Dúvidas, perguntas sobre o projeto:
+## _1° PARTE:_ Dúvidas, perguntas sobre o projeto
 
-## _2° PARTE:_ Respostas sobre as perguntas:
+## _2° PARTE:_ Respostas sobre as perguntas
 
 ### 1° Pergunta:
 Como vai funcionar o plano pago detalhadamente?
@@ -90,12 +93,13 @@ Não, o plano não terá desconto para nenhuma das duas opções nem para novos 
 
 ___
 
-## _3° PARTE:_ Nossas soluções para resolver os problemas com base nas respostas das perguntas:
+## _3° PARTE:_ Nossas soluções para resolver os problemas com base nas respostas das perguntas
 
-## _4° PARTE_: Se apoiaram as ideias das soluções ou não:
+## _4° PARTE_: Se apoiaram as ideias das soluções ou não
 
 ### 1° Solução:
-Em vez de só ter a IA gratuita logo de cara do plano gratuito, o aplicativo poderia dar mais créditos ou interações por mês. *Exemplo:* Falar com um nutricionista profissional somente 2 vezes ao mês. Se o limite de crédito ou interações acabar, a pessoa só espera o mês virar ou assinar o plano pago se estiver com pressa para usar os benefícios do plano pago. 
+Em vez de só ter a IA gratuita logo de cara do plano gratuito, o aplicativo poderia dar mais créditos ou interações por mês. 
+### Exemplo: Falar com um nutricionista profissional somente 2 vezes ao mês. Se o limite de crédito ou interações acabar, a pessoa só espera o mês virar ou assinar o plano pago se estiver com pressa para usar os benefícios do plano pago. 
 
 ### - Apoiaram ou não?:
 Não apoiaram, porque o APP já possuí o teste grátis do plano pago com essas funcionalidades e muito mais, entao poderiam perder dinheiro facilmente.
@@ -223,7 +227,6 @@ ___
 
 ### - RF08:
 O sistema deve disponibilizar anúncios aos usuários do plano gratuito.
-Requisitos.
 
 ___
 
@@ -271,4 +274,116 @@ O plano pago deve oferecer recursos mais completos e acompanhamento profissional
 
 ___
 
+## _7° PARTE:_ Casos de uso ou histórias de usuários
+
+### - Criar uma conta:
+- Fazer login
+- Informar objetivo pessoal
+- Receber orientações da IA
+- Contratar o plano pago
+- Consultar um nutricionista
+- Acompanhar o progresso
+- Gerenciar seus dados pessoais
+
+___
+
 # Fim do projeto
+
+
+# RESUMO DO PROJETO – DIETFTY
+
+## Objetivo
+
+O projeto tem como objetivo simular o desenvolvimento de um sistema real, passando pelo levantamento de requisitos, entrevista com o cliente, documentação e proposta de soluções.
+
+## Empresa
+
+O DietFty é um aplicativo voltado para saúde, alimentação e qualidade de vida. O sistema utiliza Inteligência Artificial para oferecer orientações e sugestões relacionadas à alimentação.
+
+O aplicativo possui um plano gratuito, com recursos básicos e interação com a IA, e um plano pago, no valor de R$ 20,00 por mês, que oferece recursos mais completos e acompanhamento com um nutricionista profissional.
+
+## Problema Identificado
+
+Muitas pessoas possuem dificuldade para organizar sua alimentação e acompanhar seus objetivos de saúde de maneira personalizada.
+
+Atualmente, essas pessoas podem procurar informações na internet, utilizar aplicativos de alimentação ou buscar diretamente profissionais da área. A falta de organização e acompanhamento pode dificultar a criação de hábitos saudáveis e o acompanhamento dos objetivos do usuário.
+
+## Entrevista com o Cliente
+
+Durante a entrevista, foram levantadas informações sobre o funcionamento do aplicativo, seus planos, funcionalidades, segurança e possíveis melhorias.
+
+Foi identificado que o plano gratuito utiliza a Inteligência Artificial, enquanto o plano pago também conta com acompanhamento de um nutricionista profissional. O plano pago possui duração de um mês e não oferece descontos para novos usuários.
+
+A equipe de desenvolvimento também apresentou diferentes propostas para melhorar o sistema, que foram avaliadas e aprovadas ou recusadas pelo cliente.
+
+## Propostas de Solução
+
+Entre as soluções propostas pela equipe de desenvolvimento estão:
+
+* Criar diferentes níveis de planos, incluindo uma opção mais barata e outra mais completa.
+* Disponibilizar planos trimestrais e semestrais.
+* Melhorar a interação da IA, fazendo perguntas sobre rotina, objetivos e preferências do usuário antes de fornecer orientações.
+* Deixar claro que a IA é uma ferramenta de apoio e não substitui um nutricionista profissional.
+* Permitir que o usuário tenha maior controle sobre seus dados pessoais.
+* Utilizar autenticação em duas etapas para aumentar a segurança.
+* Enviar avisos antes do término do período de teste ou da renovação da assinatura.
+* Criar um sistema de recompensas para usuários que utilizam o aplicativo e mantêm a assinatura.
+
+A primeira proposta, relacionada à disponibilização de mais interações com um nutricionista no plano gratuito, não foi aprovada pelo cliente, pois o aplicativo já oferece um período de teste gratuito com funcionalidades do plano pago.
+
+## Stakeholders
+
+Os principais envolvidos no sistema são:
+
+* Usuários do plano gratuito;
+* Usuários do plano pago;
+* Nutricionistas;
+* Administradores do sistema;
+* Equipe de desenvolvimento.
+
+## Requisitos Funcionais
+
+O sistema deverá:
+
+* Disponibilizar planos gratuito e pago;
+* Oferecer orientações básicas aos usuários do plano gratuito;
+* Disponibilizar recursos mais completos no plano pago;
+* Permitir acompanhamento com nutricionista profissional;
+* Permitir consultas com o nutricionista;
+* Permitir que o usuário informe seu objetivo;
+* Realizar o acompanhamento de acordo com o objetivo e plano contratado;
+* Disponibilizar anúncios para usuários do plano gratuito.
+
+## Requisitos Não Funcionais
+
+O sistema deverá:
+
+* Apresentar bom desempenho;
+* Possuir uma interface simples e fácil de utilizar;
+* Ter uma aparência agradável;
+* Garantir a segurança das informações pessoais dos usuários.
+
+## Regras de Negócio
+
+* As informações pessoais dos clientes devem ser protegidas;
+* O plano gratuito deve possuir limitações em relação ao plano pago;
+* O plano pago deve oferecer recursos mais completos e acompanhamento profissional;
+* O sistema deve respeitar o princípio de respeito mútuo entre as pessoas.
+
+## Casos de Uso
+
+Os principais casos de uso do sistema são:
+
+* Criar uma conta;
+* Fazer login;
+* Informar o objetivo pessoal;
+* Receber orientações da IA;
+* Contratar o plano pago;
+* Consultar um nutricionista;
+* Acompanhar o progresso;
+* Gerenciar os dados pessoais.
+
+## Conclusão
+
+A partir da entrevista com o cliente, a equipe de desenvolvimento conseguiu compreender o problema do DietFty, suas necessidades e as funcionalidades esperadas para o sistema. Com base nessas informações, foram propostas soluções e melhorias, algumas aprovadas e outras não pelo cliente. Dessa forma, foi possível documentar os principais requisitos, stakeholders, regras de negócio e casos de uso do projeto.
+
