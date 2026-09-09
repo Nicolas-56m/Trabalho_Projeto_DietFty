@@ -5,11 +5,7 @@
 https://canva.link/quo1ai5hjs572y7
 
 # _PROJETO COMPLETO:_ DietFty
-
-## Objetivo do projeto:
-Simular um projeto real de software, passando pelo levantamento de requisitos, entrevista com o cliente, documentação e proposta de solução.
-
-___ 
+_ 
 
 ## Descrição da empresa:
 O Dietfty é um aplicativo voltado para a saúde, alimentação e
