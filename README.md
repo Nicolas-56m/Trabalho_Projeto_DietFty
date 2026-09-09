@@ -5,9 +5,32 @@
 https://canva.link/quo1ai5hjs572y7
 
 # _PROJETO COMPLETO:_ DietFty
+
 ___
 
-## Descrição da empresa:
+## _1° PARTE:_ Resumo do problema
+
+Muitas pessoas possuem dificuldade para organizar sua alimentação e acompanhar seus objetivos de saúde de forma personalizada.
+
+___
+
+### Como o problema é tratado atualmente?
+Atualmente, algumas pessoas procuram informações na internet, utilizam aplicativos de alimentação ou buscam diretamente profissionais da área.
+
+___
+
+### Quem é afetado?
+Pessoas que possuem dificuldade para organizar sua alimentação e acompanhar seus objetivos de saúde.
+
+___
+
+### Quais prejuízos causa?
+A falta de organização e acompanhamento pode dificultar a criação de hábitos saudáveis e o acompanhamento dos objetivos do usuário.
+
+___
+
+## _2° Parte:_ Descrição da empresa:
+
 O Dietfty é um aplicativo voltado para a saúde, alimentação e
 qualidade de vida, criado para ajudar pessoas que desejam melhorar
 seus hábitos alimentares e ter uma rotina mais saudável. Utilizando
@@ -29,9 +52,9 @@ alimentares e na busca por uma melhor qualidade de vida.
 
 ___
 
-## _1° PARTE:_ Dúvidas, perguntas sobre o projeto
+## _3° PARTE:_ Dúvidas, perguntas sobre o projeto
 
-## _2° PARTE:_ Respostas sobre as perguntas
+## _4° PARTE:_ Respostas sobre as perguntas
 
 ### 1° Pergunta:
 Como vai funcionar o plano pago detalhadamente?
@@ -89,9 +112,9 @@ Não, o plano não terá desconto para nenhuma das duas opções nem para novos 
 
 ___
 
-## _3° PARTE:_ Nossas soluções para resolver os problemas com base nas respostas das perguntas
+## _5° PARTE:_ Nossas soluções para resolver os problemas com base nas respostas das perguntas
 
-## _4° PARTE_: Se apoiaram as ideias das soluções ou não
+## _6° PARTE_: Se apoiaram as ideias das soluções ou não
 
 ### 1° Solução:
 Em vez de só ter a IA gratuita logo de cara do plano gratuito, o aplicativo poderia dar mais créditos ou interações por mês. 
@@ -150,28 +173,7 @@ Apoiaram esta solução
 
 ___
 
-## _5° PARTE:_ Resumo do problema
-
-Muitas pessoas possuem dificuldade para organizar sua alimentação e acompanhar seus objetivos de saúde de forma personalizada.
-
-___
-
-### Como o problema é tratado atualmente?
-Atualmente, algumas pessoas procuram informações na internet, utilizam aplicativos de alimentação ou buscam diretamente profissionais da área.
-
-___
-
-### Quem é afetado?
-Pessoas que possuem dificuldade para organizar sua alimentação e acompanhar seus objetivos de saúde.
-
-___
-
-### Quais prejuízos causa?
-A falta de organização e acompanhamento pode dificultar a criação de hábitos saudáveis e o acompanhamento dos objetivos do usuário.
-
-___
-
-##  _6° PARTE:_ Stakeholders
+##  _7° PARTE:_ Stakeholders
 
 ### - Envolvidos no sistema:
 - Usuários do plano gratuito
@@ -270,7 +272,7 @@ O plano pago deve oferecer recursos mais completos e acompanhamento profissional
 
 ___
 
-## _7° PARTE:_ Casos de uso ou histórias de usuários
+## _8° PARTE:_ Casos de uso ou histórias de usuários
 
 ### - Criar uma conta:
 - Fazer login
