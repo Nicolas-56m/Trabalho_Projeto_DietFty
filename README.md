@@ -188,86 +188,86 @@ ___
 
 ### Requisitos Funcionais:
 
-### - RF01:
+### - RF001:
 O sistema deve disponibilizar plano gratuito e plano pago.
 
 ___
 
-### - RF02:
+### - RF002:
 O sistema deve oferecer orientações básicas para melhoria da saúde aos usuários do plano gratuito.
 
 ___
 
-### - RF03:
+### - RF003:
 O sistema deve oferecer recursos mais completos aos usuários do plano pago.
 
 ___
 
-### - RF04:
+### - RF004:
 O sistema deve disponibilizar acompanhamento com nutricionista profissional aos usuários do plano pago.
 
 ___
 
-### - RF05:
+### - RF005:
 O sistema deve permitir a realização de consultas com o nutricionista aos usuários do plano pago.
 
 ___
 
-### - RF06:
+### - RF006:
 O sistema deve permitir que o usuário informe seu objetivo, podendo escolher entre ganhar massa, perder gordura corporal ou manter-se saudável.
 
 ___
 
-### - RF07:
+### - RF007:
 O sistema deve realizar o acompanhamento do usuário de acordo com seu objetivo do plano contratado.
 
 ___
 
-### - RF08:
+### - RF008:
 O sistema deve disponibilizar anúncios aos usuários do plano gratuito.
 
 ___
 
 ### Não Funcionais:
 
-### - RNF01:
+### - RNF001:
 O sistema deve apresentar bom desempenho, proporcionando uma utilização rápida.
 
 ___
 
-### - RNF02:
+### - RNF002:
 O sistema deve possuir uma interface simples e fácil de utilizar.
 
 ___
 
-### - RNF03:
+### - RNF003:
 O sistema deve possuir uma interface visualmente agradável.
 
 ___
 
-### - RNF04:
+### - RNF004:
 O sistema deve garantir a segurança das informações pessoais dos clientes.
 
 ___
 
 ### Regras de Negócio:
 
-### - RN01:
+### - RN001:
 O sistema deve respeitar o princípio de respeito mútuo entre as pessoas.
 
 ___
 
-### - RN02:
+### - RN002:
 As informações pessoais dos clientes devem ser tratadas de forma segura e protegida.
 
 ___
 
-### - RN03:
+### - RN003:
 O plano gratuito deve possuir limitações em relação ao plano pago.
 
 ___
 
-### - RN04:
+### - RN004:
 O plano pago deve oferecer recursos mais completos e acompanhamento profissional em relação ao plano gratuito.
 
 ___
