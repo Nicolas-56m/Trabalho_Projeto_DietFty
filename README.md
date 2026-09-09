@@ -5,7 +5,7 @@
 https://canva.link/quo1ai5hjs572y7
 
 # _PROJETO COMPLETO:_ DietFty
-_ 
+___
 
 ## Descrição da empresa:
 O Dietfty é um aplicativo voltado para a saúde, alimentação e
